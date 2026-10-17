@@ -13,10 +13,10 @@ Team solutions to the four assignments of the Data Science for Text Analysis cou
 
 | Folder | Topic | Main tools |
 |---|---|---|
-| `Assignment_1/` | Regular expression validation and text extraction from PDF documents, compared with `SequenceMatcher` | Python, PyPDF2, pypdfium2, LaTeX |
-| `Assignment_2/` | Elasticsearch and text mining on "The Simpsons" dataset (characters, locations, episodes and script lines) | pandas, spaCy, scikit-learn, wordcloud |
-| `Assignment_3/` | Text classification and word embeddings, including a Word2Vec model trained on Friends transcripts | Gensim, spaCy, scikit-learn, seaborn |
-| `Assignment_4/` | Keyphrase extraction, named entity recognition and neural models | spaCy |
+| [`Assignment_1/`](Assignment_1/) | Regular expression validation and text extraction from PDF documents, compared with `SequenceMatcher` | Python, PyPDF2, pypdfium2, LaTeX |
+| [`Assignment_2/`](Assignment_2/) | Elasticsearch and text mining on "The Simpsons" dataset (characters, locations, episodes and script lines) | pandas, spaCy, scikit-learn, wordcloud |
+| [`Assignment_3/`](Assignment_3/) | Text classification and word embeddings, including a Word2Vec model trained on Friends transcripts | Gensim, spaCy, scikit-learn, seaborn |
+| [`Assignment_4/`](Assignment_4/) | Keyphrase extraction, named entity recognition and neural models | spaCy |
 
 ## Getting started
 
